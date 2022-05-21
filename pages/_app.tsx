@@ -7,7 +7,7 @@ function MyApp({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <link rel="shortcut icon" href={'/favicon.ico'} />
+        <link rel="shortcut icon" href={'favicon.ico'} />
         <title>Uemerson Pinheiro Junior</title>
         <meta
           name="viewport"
